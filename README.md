@@ -1,2 +1,2 @@
 # note
-隨手紀錄
+issue lable 隨手紀錄
